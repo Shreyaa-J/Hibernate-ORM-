@@ -1,0 +1,20 @@
+INDEX VERSION 1.134+C:\JAVA\Adv Java Woekspace\batch227-hibernate workspace\.metadata\.plugins\org.eclipse.jdt.core
+1749449557.index
+845208804.index
+294552585.index
+2797714800.index
+2207298446.index
+4160035138.index
+3302506365.index
+902180300.index
+1865797976.index
+2822788353.index
+1487721120.index
+4168534666.index
+2128189483.index
+1686044256.index
+3081650530.index
+341928071.index
+465052231.index
+2425276891.index
+3449706629.index
